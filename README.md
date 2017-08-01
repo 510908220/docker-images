@@ -49,5 +49,4 @@ $ sudo docker push registry.cn-hangzhou.aliyuncs.com/510908220/develop:[镜像�
 docker push [OPTIONS] NAME[:TAG]
 ```
 
-比如`docker push westdoorblowcola/django:1.8.2`
-
+比如`docker push westdoorblowcola/django:1.8.2`，相当于`westdoorblowcola/django`是仓库
